@@ -1,0 +1,29 @@
+.footer{
+    width: 100%;
+    height: 1.333333rem;
+    border-top: .066667rem solid #efefef;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 999;
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff;
+  }
+  .footer1{
+      width: 2.493333rem;
+      text-align: center;
+      margin-top: .266667rem;
+      display: inline-block;
+  }
+  .footer a{
+    color: #818181;
+  }
+  .footer span{
+    font-size: .266667rem;
+    font-weight: 400;
+  }
+  .blue{
+    color: #008cff;
+  }

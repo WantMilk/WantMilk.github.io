@@ -1,0 +1,97 @@
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.clear{
+    clear: both;
+}
+.footer{
+    width: 100%;
+    height: 1.333333rem;
+    border-top: .066667rem solid #efefef;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 999;
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff;
+  }
+  .footer1{
+      width: 2.493333rem;
+      text-align: center;
+      margin-top: .266667rem;
+      display: inline-block;
+  }
+  .footer a{
+    color: #818181;
+  }
+  .footer span{
+    font-size: .266667rem;
+    font-weight: 400;
+  }
+  .blue{
+    color: #008cff;
+  }
+  .box{
+    background-color: #f5f5f5;
+    height: 18.333333rem;
+    padding-top: .266667rem;
+  }
+  .kuai1{
+        width: 100%;
+        height: 2.466667rem;
+        background-color: #fff;
+        margin-bottom: .266667rem;
+        padding-top: .373333rem;
+        padding-left: .4rem;
+  }
+  .kuai2{
+      width: 9.6rem;
+      height: 2.466667rem;
+  }
+.dianmian{
+    width: 96%;
+    margin: 0 auto;
+    padding-top: .373333rem;
+    padding-left: 4%;
+    background-color: #fff;
+    margin-bottom: .266667rem;
+}
+.dianmian1{
+  width: 12%;
+}
+.dianmian1 img{
+  width: .853333rem;
+  height: .853333rem;
+}
+.dianmian2{
+  width: 88%;
+}
+.dianmian3{
+  font-size: .4rem;
+  font-weight: 400;
+}
+.dianmian4{
+  font-size: .333333rem; 
+  line-height: .413333rem;
+  padding-right: .266667rem;
+}
+.dianmian5{
+  font-size: .266667rem;
+  margin-top: .08rem;
+  margin-bottom: .2rem;
+}
+.dianmian6{
+  font-size: .333333rem;
+  margin-bottom: .333333rem;
+}
+hr{
+  border: none;
+  border-top: .013333rem solid #f4f4f4;
+  margin-top: .333333rem;
+  margin-bottom: .333333rem;
+}
